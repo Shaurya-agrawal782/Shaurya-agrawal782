@@ -104,7 +104,7 @@ Health tracking platform with backend API, dashboard, and deployment-ready archi
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shaurya-agrawal">
+  <a href="www.linkedin.com/in/shaurya-agrawal-13a4b532b">
     <img src="https://img.shields.io/badge/LinkedIn-Shaurya%20Agrawal-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://shaurya-portfolio-5cw4.onrender.com/">
