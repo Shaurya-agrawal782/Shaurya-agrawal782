@@ -94,7 +94,7 @@ Health tracking platform with backend API, dashboard, and deployment-ready archi
 ## 🏆 Achievements
 
 - 🥇 Hackathon Winner
-- 🏆 National-level hackathon participant
+- 🏆 National-level hackathon winner(runner-up)
 - 💻 Built multiple full-stack deployed projects
 - 🚀 Experience with MERN Stack, AI integrations, and real-world deployments
 - 🎯 Open to internships, collaborations, and open-source contributions
